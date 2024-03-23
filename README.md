@@ -1,4 +1,7 @@
 # Winter DayZ Console...Sort of
+
+(as sen in this video https://www.youtube.com/watch?v=5s6ZGxCv7_k)
+
 Above are the json files to cover the DayZ map, either Chernarus or Livonia, with a decal that makes it look like it has snowed.
 There are 2 types of decals used. One is a crosswalk decal and the other is a runway line 6x30 decal. They are scaled up and give the look of snow. 
 In each directory will be the objectspawnerarr data to call the files from the custom folder.
